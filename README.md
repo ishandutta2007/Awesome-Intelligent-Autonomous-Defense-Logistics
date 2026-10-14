@@ -78,11 +78,11 @@ The following enterprise platforms provide managed, accredited, and specialized 
 
 Open-source infrastructure forms the vendor-independent foundation for sovereign, air-gapped, and transparent defense logistics systems.
 
-*All repositories are sorted descending by GitHub Star Count:*
+*All repositories are sorted descending by GitHub Stars_Count:*
 
 ### Top Tier Core Infrastructure
 
-| Repository | GitHub Stars | License | Primary Architectural Role in Defense Logistics |
+| Repository | GitHub_Stars | License | Primary Architectural Role in Defense Logistics |
 | :--- | :---: | :--- | :--- |
 | **[TensorFlow](https://github.com/tensorflow/tensorflow)** | [![Stars](https://img.shields.io/github/stars/tensorflow/tensorflow?style=social&color=white)](https://github.com/tensorflow/tensorflow/stargazers) | Apache-2.0 | Machine learning platform powering predictive component maintenance and edge inference via **TensorFlow Lite** on unmanned resupply platforms. |
 | **[Kubernetes](https://github.com/kubernetes/kubernetes)** | [![Stars](https://img.shields.io/github/stars/kubernetes/kubernetes?style=social&color=white)](https://github.com/kubernetes/kubernetes/stargazers) | Apache-2.0 | Resilient container orchestration for contested environments; runs air-gapped and tactical edge computing clusters with self-healing nodes. |
@@ -105,7 +105,7 @@ Open-source infrastructure forms the vendor-independent foundation for sovereign
 
 ### Specialized Autonomous & Geospatial Components
 
-| Repository | GitHub Stars | License | Primary Architectural Role in Defense Logistics |
+| Repository | GitHub_Stars | License | Primary Architectural Role in Defense Logistics |
 | :--- | :---: | :--- | :--- |
 | **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** | [![Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers) | Apache-2.0 | Declarative policy-as-code engine enforcing strict access control, attribute-based encryption, and clearance rules across logistics APIs. |
 | **[Autoware](https://github.com/autowarefoundation/autoware)** | [![Stars](https://img.shields.io/github/stars/autowarefoundation/autoware?style=social&color=white)](https://github.com/autowarefoundation/autoware/stargazers) | Apache-2.0 | Full open-source autonomous driving software stack utilized for autonomous resupply trucks, warehouse AGVs, and logistics convoys. |
@@ -179,7 +179,7 @@ We welcome additions, corrections, and improvements from defense technologists a
 3. **Add Entry**:
    - For **SaaS**: Include product name, official link, company scale (valuation/revenue), exact starting price, exact free tier / trial limits, and core capability focus.
    - For **Open-Source**: Provide repository name, GitHub link, stargazer social badge (`style=social&color=white`), license, and primary architectural role.
-4. **Ensure Strict Sorting**: Maintain descending sort order for SaaS (company scale) and Open Source (star count).
+4. **Ensure Strict Sorting**: Maintain descending sort order for SaaS (company scale) and Open Source (Stars_Count).
 5. **Open a Pull Request** with a concise description of your update.
 
 ---
